@@ -1,0 +1,17 @@
+body{
+    background-color: beige;
+    height: 100vh;
+    margin: center;
+    text-align: center;
+}
+
+button{
+    padding: 10px;
+}
+
+.time-display{
+    font-size: 48px;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
